@@ -1,0 +1,42 @@
+# Colorado Lottery
+* co_lotto.csv
+
+* co_lucky_num.csv
+
+* co_lucky_store.csv
+
+
+# Cash 5
+
+* cash5.csv
+
+* cash5_lucky_num.csv
+
+* cash5_lucky_store.csv
+
+
+# Pick 3
+
+* pick3.csv
+
+* pick3_lucky_num.csv
+
+* pick3_lucky_store.csv
+
+
+# Power Ball
+
+* powerball.csv
+
+* pb_lucky_num
+
+* pb_lucky_store
+
+
+# Mega Millions
+
+* mega_millions.csv
+
+* mm_lucky_num.csv
+
+* mm_lucky_store.csv
