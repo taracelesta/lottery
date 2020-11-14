@@ -59,8 +59,15 @@ bling bling, mofo.
 |   |__ part_4_modeling.ipynb
 |__ data: 
 |   |__ data_description.txt
-|   |__ train.csv
-|   |__ test.csv
+|   |__ co_lotto.csv
+|   |__ co_lotto_luckiest_stores.csv
+|   |__ cash_5.csv
+|   |__ cash_5_luckiest_stores.csv
+|   |__ pick_3.csv
+|   |__ pick_3_luckiest_stores.csv
+|   |__ powerball.csv
+|   |__ powerball_luckiest_stores.csv
+
 |__ images:
 |   |__ 1.1_remove_outliers.png
 |   |__ 1.2_numerical_distribution_fit.png
