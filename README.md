@@ -59,21 +59,26 @@ bling bling, mofo.
 |   |__ part_4_modeling.ipynb
 |__ data: 
 |   |__ data_description.txt
-|   |__ co_lotto.csv
-|   |__ co_lucky_num.csv
-|   |__ co_lucky_stores.csv
-|   |__ cash5.csv
-|   |__ cash5_lucky_num.csv
-|   |__ cash5_lucky_stores.csv
-|   |__ pick3.csv
-|   |__ pick3_num_stores.csv
-|   |__ pick3_lucky_stores.csv
-|   |__ powerball.csv
-|   |__ pb_lucky_num.csv
-|   |__ pb_lucky_stores.csv
-|   |__ mega_millions.csv
-|   |__ mm_lucky_num.csv
-|   |__ mm_lucky_stores.csv
+|   |__ colorado_lottery_data.txt
+|   |   |__ co_lotto.csv
+|   |   |__ co_lucky_num.csv
+|   |   |__ co_lucky_stores.csv
+|   |__ cash_5_data.txt
+|   |   |__ cash5.csv
+|   |   |__ cash5_lucky_num.csv
+|   |   |__ cash5_lucky_stores.csv
+|   |__ pick_3_data.txt
+|   |   |__ pick3.csv
+|   |   |__ pick3_num_stores.csv
+|   |   |__ pick3_lucky_stores.csv
+|   |__ powerball_data.csv
+|   |   |__ powerball.csv
+|   |   |__ pb_lucky_num.csv
+|   |   |__ pb_lucky_stores.csv
+|   |__ mega_millions_data.csv
+|   |   |__ mega_millions.csv
+|   |   |__ mm_lucky_num.csv
+|   |   |__ mm_lucky_stores.csv
 |__ images:
 |   |__ 1.1_remove_outliers.png
 |   |__ 1.2_numerical_distribution_fit.png
