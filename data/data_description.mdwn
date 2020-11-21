@@ -1,10 +1,41 @@
 # Colorado Lottery
 * co_lotto.csv
+- 
+
+
 
 * co_lucky_num.csv
 
 * co_lucky_store.csv
 
+- 'draw_date':
+- 'last_day_to_claim':
+- 'winning_numbers':
+
+- 'jackpot':
+- 'jackpot_cash_value':
+- 'jackpot_co_winners':
+
+- 'match_5_prize':
+- 'match_5_co_winners':
+- 'match_4_prize':
+- 'match_4_co_winners':
+- 'match_3_prize':
+- 'match_3_co_winners':
+
+- 'match_5/4/3/2_2/3/4/5x_prize':
+- 'match_5/4/3/2_2/3/4/5x_winners':
+
+- 'plus_winning_numbers':
+- 'plus_jackpot_winners':
+- 'plus_match_5/4/3_2/3/4/5x_prize':
+- 'plus_match_5/4/3_2/3/4/5x_winners': 
+- 'ball_1': first ball drawn
+- 'ball_2':
+- 'ball_3':
+- 'ball_4':
+- 'ball_5':
+- 'ball_6':
 
 # Cash 5
 
